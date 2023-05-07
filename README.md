@@ -35,6 +35,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinav89908&theme=dark&show_icons=true" alt="abhinav89908" /></p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav89908&" alt="abhinav89908" /></p>
