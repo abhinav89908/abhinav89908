@@ -1,13 +1,12 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://www.dcvelocity.com/ext/resources/Screen-Shot-2020-08-31-at-93635-AM.png?t=1598883609&width=696)
 
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A passionate MERN-stack developer and Android Developer from India</h3>
 
-<img align = "right" alt="coding" with ="400" src = "https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav89908&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav89908" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align = "right" alt="coding" with ="400" src = "https://t4.ftcdn.net/jpg/05/60/77/99/240_F_560779904_bebnQMAlXsMGnv6iV9wSvaOTzpJY8v2l.jpg" >
 
 - 🔭 I’m currently working on **Neural Networks**
 
